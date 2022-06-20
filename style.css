@@ -1,0 +1,64 @@
+.bory{
+    background-color:
+     #ffffff;
+
+}
+
+.wrapper{
+    width: 100%;
+    height: 100%;
+    top: 0%;
+    left: 0%;
+    position: absolute;
+    background-color: #000000;
+
+}
+
+p{
+    text-align: center;
+    font-size: 18px;
+    background-color: #ffffff;
+}
+
+.foto{
+    text-align: center;
+}
+
+.cinza{
+    width: 100%;
+    height: 10%;
+    top: 0%;
+    left: 0%;
+    position: absolute;
+    background-color: #6ba6f1;
+    
+}
+
+.azul{
+    width:25%;
+    height:90%;
+    top:10%;
+    left:0%;
+    position: absolute;
+    background-color:  #73c8f1;
+}
+
+.violeta{
+    width: 80%;
+    height: 90%;
+    top: 10%;
+    left: 20%;
+    position: absolute; 
+    background-image: url(Boneca-Moana.jpg);
+}
+
+
+.vermelha{
+    width: 100%;
+    height: 5%;
+    top: 95%;
+    right: 0%;
+    position: absolute;
+    background-color:  #075183;
+    
+}
